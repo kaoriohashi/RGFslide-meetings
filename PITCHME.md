@@ -1,1 +1,6 @@
-# RGFslide-meetings
+# ミーティングの極意
+---
+- 様々なミーティングのシーン
+- BD,Candidate MTG,既存クライアント,社内MTG
+
+---
